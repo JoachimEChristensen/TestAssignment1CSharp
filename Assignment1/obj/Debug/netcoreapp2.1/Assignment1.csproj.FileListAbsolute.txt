@@ -1,0 +1,8 @@
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Joachim\Desktop\Second Semester Exam Stuff\Test\Assignments\Assignment 1 Test Cases\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
